@@ -81,6 +81,7 @@ module.exports = [
 	new CountryData("Eritrea", "Eritrean", "ER", "ERI"),
 	new CountryData("Estonia", "Estonian", "EE", "EST"),
 	new CountryData("Ethiopia", "Ethiopian", "ET", "ETH"),
+	new CountryData("Fathoniyah Darussalam", "Fathoni", "Patani", "FA", "FAN"),
 	new CountryData("Falkland Islands", "Falkland Islander", "FK", "FLK"),
 	new CountryData("Faroe Islands", "Faroese", "FO", "FRO"),
 	new CountryData("Fiji", "Fijian", "FJ", "FJI"),
